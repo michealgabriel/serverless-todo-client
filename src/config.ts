@@ -7,5 +7,5 @@ export const authConfig = {
   // TODO: Create an Auth0 application and copy values from it into this map. For example:
   domain: 'dev-zr84h7r2.us.auth0.com',            // Auth0 domain
   clientId: '5kYSSleoQsCNogSoDEDivoQM8r9qT5e6',          // Auth0 client id
-  callbackUrl: 'http://localhost:3000/callback'
+  callbackUrl: 'https://main.dclgn4pepzsac.amplifyapp.com/callback'
 }
